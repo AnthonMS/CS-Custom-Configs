@@ -15,7 +15,7 @@ The Binds config will make keybinds for mainly buying weapons and gear. But it w
 
 **When buying an item, it will switch to the primary or secondary weapon and drop it first. This is because if you want to buy a teammate the same gun as you already have, you don't have to drop it for him first, you can just buy another. It will not let you buy the same item as you already have, without dropping it first. If you don't have any, it will not drop any.**
 
-<h6>Key binds table</h6>
+<h5>Key binds table</h5>
 
 | Key						| Function															|
 | ------------------------- | ----------------------------------------------------------------- |
