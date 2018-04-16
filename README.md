@@ -64,6 +64,4 @@ The Binds config will make keybinds for mainly buying weapons and gear. But it w
 
 <h3>Screenshots</h3>
 
-<img src="/Images/Standard-view-model.png?raw=true" title="Standard View Model" height="240" width="384">
-<img src="/Images/Gangsta-view-model.png?raw=true" title="Gangsta View Model" height="240" width="384">
-<img src="/Images/Quake-view-model.png?raw=true" title="Quake View Model" height="240" width="384">
+<img src="/Images/Standard-view-model.png?raw=true" title="Standard View Model" height="240" width="384"> <img src="/Images/Gangsta-view-model.png?raw=true" title="Gangsta View Model" height="240" width="384"> <img src="/Images/Quake-view-model.png?raw=true" title="Quake View Model" height="240" width="384">
