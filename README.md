@@ -2,7 +2,7 @@
 
 <h1> Testing </h1>
 
-** Bold text **
+**Bold text**
 
 This repository is to share my CSGO config files, (and to save them in the cloud if I need them on another PC at one point).
 
