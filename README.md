@@ -64,4 +64,4 @@ The Binds config will make keybinds for mainly buying weapons and gear. But it w
 
 <h3>Screenshots</h3>
 
-![Standard View Model](/Images/Standard-view-model.png?raw=true width=100 "Standard View Model")
+![Standard View Model](/Images/Standard-view-model.png?raw=true | width=100 "Standard View Model")
