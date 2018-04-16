@@ -4,7 +4,16 @@ This repository is to share my CSGO config files, (and to save them in the cloud
 
 It contains a lot of different config files, including an autoexec that executed every time the game is loaded, some different crosshairs and viewmodels.
 
-You will find all of the config files under the folder name ["Config Files"](https://github.com/AnthonMS/CSGO-Custom-Configs/tree/master/Config%20Files)
+You will find all of the config files under the folder name [Config Files](https://github.com/AnthonMS/CSGO-Custom-Configs/tree/master/Config%20Files).
+What you will need to do, is to navigate to the folder where your CS:GO config files need to be. In most cases it will be "**C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\cfg**". If you don't know where you can find this folder, just open Steam, right click CS:GO and click on Porperties, then in the small window click on LOCAL FILES tab and click on BROWSE LOCAL FILES. This will open the folder where CS:GO is installed. Then you just go under csgo and again under cfg.
+
+When this folder is found, check if you already have a autoexec.cfg, if you do, and you use this, just add some of the lines from my autoexec.cfg to yours. The autoexec is only to automatically execute the custom_config and binds_config every time you open the game, so you will be able to use these awesome features. (It does have a couple of other commands in it, though these are optional)
+
+So just import all the config files to the folder, and you will be able to cycle between crosshairs, view models, sensetivites, volume, mute/unmute and all that other stuff.
+
+**If for some reason the binds or other features does not work, simply write in the console manually "exec binds_config; exec custom_config",** *(without the quotation marks.)* **and double check that your autoexec contain these lines.**
+
+**If you want to change some of the keybinds, just change them to whatever you feel like suits you the best. It is pretty easy and should not need further explanation**
 
 <h3>Custom_config Description</h3>
 The autoexec has some of the standard setttings like updaterate on offline server and other stuff. Plus it executes the config with some different binds like buy and jump-throw and a custom config that is quite interesting.
