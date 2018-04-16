@@ -68,4 +68,4 @@ The Binds config will make keybinds for mainly buying weapons and gear. But it w
 
 <img src="/Images/Standard-view-model.png?raw=true" title="Standard View Model" height="240" width="384"> <img src="/Images/Gangsta-view-model.png?raw=true" title="Gangsta View Model" height="240" width="384"> <img src="/Images/Quake-view-model.png?raw=true" title="Quake View Model" height="240" width="384">
 
-<img src="/Images/Standard-Crosshair.png?raw=true" title="Standard Crosshair"> <img src="/Images/Reddot-Crosshair.png?raw=true" title="Red dot Crosshair"> <img src="/Images/Redplus-Crosshair.png?raw=true" title="Red Plus Crosshair"> <img src="/Images/Redcircle-Crosshair.png?raw=true" title="Red Circle Crosshair"> 
+<img src="/Images/Standard-Crosshair.png?raw=true" title="Standard Crosshair" height="30" width="30"> <img src="/Images/Reddot-Crosshair.png?raw=true" title="Red dot Crosshair" height="30" width="30"> <img src="/Images/Redplus-Crosshair.png?raw=true" title="Red Plus Crosshair" height="30" width="30"> <img src="/Images/Redcircle-Crosshair.png?raw=true" title="Red Circle Crosshair" height="30" width="30"> 
