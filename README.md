@@ -36,22 +36,23 @@ The Binds config will make keybinds for mainly buying weapons and gear. But it w
 "**k**"					=	Quick switch to HE grenade <br />
 
 <h4>Keypad buy binds</h4>
-"kp_end"			=	Switch to pistol, drop it, buy p250 <br />
-"kp_downarrow"		=	Switch to pistol, drop it, buy tec9, fiveseven or cz <br />
-"kp_ins"			=	Switch to pistol, drop it, buy Dual elites <br />
-"kp_pgdn"			=	Switch to pistol, drop it, buy Deagle or Revolver <br />
-"kp_leftarrow"		= 	Switch to primary, drop it, buy mp9 or mac10 <br />
-"kp_5"				=	Switch to primary, drop it, buy ump45 <br />
-"kp_rightarrow"		=	Switch to primary, drop it, buy p90 <br />
-"kp_home"			=	Switch to primary, drop it, buy Galil or Famas <br />
-"kp_uparrow"		=	Switch to primary, drop it, buy ak47 or m4a1 <br />
-"kp_pgup"			=	Switch to primary, drop it, buy aug or sg556 <br />
-"kp_slash" 			=	Switch to primary, drop it, buy Scout <br />
-"kp_multiply"		=	Switch to primary, drop it, buy AWP <br />
-"kp_minus"			=	Buy vest <br />
-"kp_plus"			=	Buy vesthelm <br />
-"kp_enter"			=	Buy Defuse Kit <br />
-"kp_del"			=	Buy Taser/Zeus <br />
+
+"**kp_end**"			=	Switch to pistol, drop it, buy p250 <br />
+"**kp_downarrow**"		=	Switch to pistol, drop it, buy tec9, fiveseven or cz <br />
+"**kp_ins**"			=	Switch to pistol, drop it, buy Dual elites <br />
+"**kp_pgdn**"			=	Switch to pistol, drop it, buy Deagle or Revolver <br />
+"**kp_leftarrow**"		= 	Switch to primary, drop it, buy mp9 or mac10 <br />
+"**kp_5**"				=	Switch to primary, drop it, buy ump45 <br />
+"**kp_rightarrow**"		=	Switch to primary, drop it, buy p90 <br />
+"**kp_home**"			=	Switch to primary, drop it, buy Galil or Famas <br />
+"**kp_uparrow**"		=	Switch to primary, drop it, buy ak47 or m4a1 <br />
+"**kp_pgup**"			=	Switch to primary, drop it, buy aug or sg556 <br />
+"**kp_slash**" 			=	Switch to primary, drop it, buy Scout <br />
+"**kp_multiply**"		=	Switch to primary, drop it, buy AWP <br />
+"**kp_minus**"			=	Buy vest <br />
+"**kp_plus**"			=	Buy vesthelm <br />
+"**kp_enter**"			=	Buy Defuse Kit <br />
+"**kp_del**"			=	Buy Taser/Zeus <br />
 
 <h4>Arrow Keys</h4>
 "leftarrow"			=	Switch to primary, drop it, buy Nova <br />
