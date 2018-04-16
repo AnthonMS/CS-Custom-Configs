@@ -29,7 +29,7 @@ The Binds config will make keybinds for mainly buying weapons and gear. But it w
 
 | Key						| Function															|
 | ------------------------- | ----------------------------------------------------------------- |
-| **Usefull Binds** 		| ----------------------------------------------------------------- |
+| **Usefull Binds** 		| 																	|
 | **n** 					| Drop the bomb immediately and say to the team you dropped it. 	|
 | **c** 					| Jump Throw a grenade 												|
 | **Mouse wheel down** 		| Jump 																|
@@ -37,7 +37,7 @@ The Binds config will make keybinds for mainly buying weapons and gear. But it w
 | **v** 					| Quick switch to smoke grenade 									|
 | **o** 					| Quick switch to Molotov or Incendiary 							|
 | **k** 					| Quick switch to HE grenade 										|
-| **Keypad Buy Binds** 		| ----------------------------------------------------------------- |
+| **Keypad Buy Binds** 		| 																	|
 | **kp_end** 				| Switch to pistol, drop it, buy p250 								|
 | **kp_downarrow** 			| Switch to pistol, drop it, buy tec9, fiveseven or cz 				|
 | **kp_ins** 				| Switch to pistol, drop it, buy Dual elites 						|
@@ -54,12 +54,12 @@ The Binds config will make keybinds for mainly buying weapons and gear. But it w
 | **kp_plus** 				| Buy vesthelm 														|
 | **kp_enter** 				| Buy Defuse Kit 													|
 | **kp_del** 				| Buy Taser/Zeus 													|
-| **Arrow-Keys Buy Binds** 	| ----------------------------------------------------------------- |
+| **Arrow-Keys Buy Binds** 	| 																	|
 | **leftarrow** 			| Switch to primary, drop it, buy Nova 								|
 | **downarrow** 			| Switch to primary, drop it, buy xm1014 							|
 | **rightarrow** 			| Switch to primary, drop it, buy Sawedoff or mag7 					|
 | **uparrow** 				| Switch to primary, drop it, buy Negev 							|
-| **F-Keys Buy Binds** 		| ----------------------------------------------------------------- |
+| **F-Keys Buy Binds** 		| 																	|
 | **F5** 					| Buy flashbang 													|
 | **F6** 					| Buy Smoke grenade 												|
 | **F7** 					| Buy Molotov or Incendiary 										|
