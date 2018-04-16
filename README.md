@@ -31,9 +31,9 @@ The Binds config will make keybinds for mainly buying weapons and gear. But it w
 "**c**"					=	Jump Throw a grenade <br />
 **Mouse wheel down**	= 	Jump <br />
 **Mouse3**(Wheel click)	=	Quick switch to flash to throw them in faster intervals <br />
-" ** v ** "					=	Quick switch to smoke grenade <br />
-" ** o ** "					=	Quick switch to Molotov or Incendiary <br />
-" ** k ** "					=	Quick switch to HE grenade <br />
+"**v**"					=	Quick switch to smoke grenade <br />
+"**o**"					=	Quick switch to Molotov or Incendiary <br />
+"**k**"					=	Quick switch to HE grenade <br />
 
 <h4>Keypad buy binds</h4>
 "kp_end"			=	Switch to pistol, drop it, buy p250 <br />
