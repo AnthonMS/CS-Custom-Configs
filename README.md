@@ -64,4 +64,8 @@ The Binds config will make keybinds for mainly buying weapons and gear. But it w
 
 <h3>Screenshots</h3>
 
+**As you can see from the Images below, if you click on them, you will be able to see in the top left corner, some text that says the name of the View model you are using right now**
+
 <img src="/Images/Standard-view-model.png?raw=true" title="Standard View Model" height="240" width="384"> <img src="/Images/Gangsta-view-model.png?raw=true" title="Gangsta View Model" height="240" width="384"> <img src="/Images/Quake-view-model.png?raw=true" title="Quake View Model" height="240" width="384">
+
+<img src="/Images/Standard-Crosshair.png?raw=true" title="Standard Crosshair"> <img src="/Images/Reddot-Crosshair.png?raw=true" title="Red dot Crosshair"> <img src="/Images/Redplus-Crosshair.png?raw=true" title="Red Plus Crosshair"> <img src="/Images/Redcircle-Crosshair.png?raw=true" title="Red Circle Crosshair"> 
