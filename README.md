@@ -65,3 +65,5 @@ The Binds config will make keybinds for mainly buying weapons and gear. But it w
 | **F7** 					| Buy Molotov or Incendiary 										|
 | **F8** 					| Buy HE grenade 													|
 
+
+<h3>Screenshots</h3>
