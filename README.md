@@ -4,6 +4,8 @@ This repository is to share my CSGO config files, (and to save them in the cloud
 
 It contains a lot of different config files, including an autoexec that executed every time the game is loaded, some different crosshairs and viewmodels.
 
+You will find all of the config files under the folder name ["Config Files"](https://github.com/AnthonMS/CSGO-Custom-Configs/tree/master/Config%20Files)
+
 <h3>Custom_config Description</h3>
 The autoexec has some of the standard setttings like updaterate on offline server and other stuff. Plus it executes the config with some different binds like buy and jump-throw and a custom config that is quite interesting.
 
