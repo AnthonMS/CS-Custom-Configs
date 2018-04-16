@@ -63,3 +63,5 @@ The Binds config will make keybinds for mainly buying weapons and gear. But it w
 | **End** 					| Cycle between Crosshairs 											|
 
 <h3>Screenshots</h3>
+
+![Alt text](/Images/Standard-view-model.png?raw=true "Optional Title")
