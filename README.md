@@ -55,16 +55,18 @@ The Binds config will make keybinds for mainly buying weapons and gear. But it w
 "**kp_del**"			=	Buy Taser/Zeus <br />
 
 <h4>Arrow Keys</h4>
-"leftarrow"			=	Switch to primary, drop it, buy Nova <br />
-"downarrow"			=	Switch to primary, drop it, buy xm1014 <br />
-"rightarrow"		=	Switch to primary, drop it, buy Sawedoff or mag7 <br />
-"uparrow"			=	Switch to primary, drop it, buy Negev <br />
+
+"**leftarrow**"			=	Switch to primary, drop it, buy Nova <br />
+"**downarrow**"			=	Switch to primary, drop it, buy xm1014 <br />
+"**rightarrow**"		=	Switch to primary, drop it, buy Sawedoff or mag7 <br />
+"**uparrow**"			=	Switch to primary, drop it, buy Negev <br />
 
 <h4>F Keys</h4>
-"F5"				=	Buy flashbang <br />
-"F6"				=	Buy Smoke grenade <br />
-"F7"				=	Buy Molotov or Incendiary <br />
-"F8"				=	Buy HE grenade <br />
+
+"**F5**"				=	Buy flashbang <br />
+"**F6**"				=	Buy Smoke grenade <br />
+"**F7**"				=	Buy Molotov or Incendiary <br />
+"**F8**"				=	Buy HE grenade <br />
 
 
 
