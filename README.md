@@ -69,8 +69,10 @@ The Binds config will make keybinds for mainly buying weapons and gear. But it w
 "**F8**"				=	Buy HE grenade <br />
 
 
-
-
+| Key		| Function										|
+| --------- | --------------------------------------------- |
+| Key 1 	| Function 1 									|
+| Key 2 	| Function 2 									|
 
 
 
