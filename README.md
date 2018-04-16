@@ -25,7 +25,7 @@ And the "End" key will change your crosshair. I have made 4 different crosshairs
 <h3>Binds_config Description</h3>
 The Binds config will make keybinds for mainly buying weapons and gear. But it will also make a couple of other nice binds.
 
-<h4>Useful binds</h4>
+**When buying an item, it will switch to the primary or secondary weapon and drop it first. This is because if you want to buy a teammate the same gun as you already have, you don't have to drop it for him first, you can just buy another. It will not let you buy the same item as you already have, without dropping it first. If you don't have any, it will not drop any.**
 
 | Key						| Function															|
 | ------------------------- | ----------------------------------------------------------------- |
