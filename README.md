@@ -26,43 +26,43 @@ And the "End" key will change your crosshair. I have made 4 different crosshairs
 The Binds config will make keybinds for mainly buying weapons and gear. But it will also make a couple of other nice binds.
 
 <h4>Useful binds</h4>
-"n"					=	Drop the bomb immediately and say to the team you dropped it.
-"c"					=	Jump Throw a grenade
-Mouse wheel down	= 	Jump
-Mouse3(Wheel click)	=	Quick switch to flash to throw them in faster intervals
-"v"					=	Quick switch to smoke grenade
-"o"					=	Quick switch to Molotov or Incendiary
-"k"					=	Quick switch to HE grenade
+"n"					=	Drop the bomb immediately and say to the team you dropped it. <br />
+"c"					=	Jump Throw a grenade <br />
+Mouse wheel down	= 	Jump <br />
+Mouse3(Wheel click)	=	Quick switch to flash to throw them in faster intervals <br />
+"v"					=	Quick switch to smoke grenade <br />
+"o"					=	Quick switch to Molotov or Incendiary <br />
+"k"					=	Quick switch to HE grenade <br />
 
 <h4>Keypad buy binds</h4>
-"kp_end"			=	Switch to pistol, drop it, buy p250
-"kp_downarrow"		=	Switch to pistol, drop it, buy tec9, fiveseven or cz
-"kp_ins"			=	Switch to pistol, drop it, buy Dual elites
-"kp_pgdn"			=	Switch to pistol, drop it, buy Deagle or Revolver
-"kp_leftarrow"		= 	Switch to primary, drop it, buy mp9 or mac10
-"kp_5"				=	Switch to primary, drop it, buy ump45
-"kp_rightarrow"		=	Switch to primary, drop it, buy p90
-"kp_home"			=	Switch to primary, drop it, buy Galil or Famas
-"kp_uparrow"		=	Switch to primary, drop it, buy ak47 or m4a1
-"kp_pgup"			=	Switch to primary, drop it, buy aug or sg556
-"kp_slash" 			=	Switch to primary, drop it, buy Scout
-"kp_multiply"		=	Switch to primary, drop it, buy AWP
-"kp_minus"			=	Buy vest
-"kp_plus"			=	Buy vesthelm
-"kp_enter"			=	Buy Defuse Kit
-"kp_del"			=	Buy Taser/Zeus
+"kp_end"			=	Switch to pistol, drop it, buy p250 <br />
+"kp_downarrow"		=	Switch to pistol, drop it, buy tec9, fiveseven or cz <br />
+"kp_ins"			=	Switch to pistol, drop it, buy Dual elites <br />
+"kp_pgdn"			=	Switch to pistol, drop it, buy Deagle or Revolver <br />
+"kp_leftarrow"		= 	Switch to primary, drop it, buy mp9 or mac10 <br />
+"kp_5"				=	Switch to primary, drop it, buy ump45 <br />
+"kp_rightarrow"		=	Switch to primary, drop it, buy p90 <br />
+"kp_home"			=	Switch to primary, drop it, buy Galil or Famas <br />
+"kp_uparrow"		=	Switch to primary, drop it, buy ak47 or m4a1 <br />
+"kp_pgup"			=	Switch to primary, drop it, buy aug or sg556 <br />
+"kp_slash" 			=	Switch to primary, drop it, buy Scout <br />
+"kp_multiply"		=	Switch to primary, drop it, buy AWP <br />
+"kp_minus"			=	Buy vest <br />
+"kp_plus"			=	Buy vesthelm <br />
+"kp_enter"			=	Buy Defuse Kit <br />
+"kp_del"			=	Buy Taser/Zeus <br />
 
 <h4>Arrow Keys</h4>
-"leftarrow"			=	Switch to primary, drop it, buy Nova
-"downarrow"			=	Switch to primary, drop it, buy xm1014
-"rightarrow"		=	Switch to primary, drop it, buy Sawedoff or mag7
-"uparrow"			=	Switch to primary, drop it, buy Negev
+"leftarrow"			=	Switch to primary, drop it, buy Nova <br />
+"downarrow"			=	Switch to primary, drop it, buy xm1014 <br />
+"rightarrow"		=	Switch to primary, drop it, buy Sawedoff or mag7 <br />
+"uparrow"			=	Switch to primary, drop it, buy Negev <br />
 
 <h4>F Keys</h4>
-"F5"				=	Buy flashbang
-"F6"				=	Buy Smoke grenade
-"F7"				=	Buy Molotov or Incendiary
-"F8"				=	Buy HE grenade
+"F5"				=	Buy flashbang <br />
+"F6"				=	Buy Smoke grenade <br />
+"F7"				=	Buy Molotov or Incendiary <br />
+"F8"				=	Buy HE grenade <br />
 
 
 
