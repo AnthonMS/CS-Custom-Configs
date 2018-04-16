@@ -64,6 +64,8 @@ The Binds config will make keybinds for mainly buying weapons and gear. But it w
 
 <h3>Screenshots</h3>
 
+**Hover your mouse over the images to see their name**
+
 **As you can see from the Images Below, if you click on them, you will be able to see in the top left corner, some text that says the name of the View model you are using right now**
 
 **View Models**
