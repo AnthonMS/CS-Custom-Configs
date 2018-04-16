@@ -8,14 +8,14 @@ It contains a lot of different config files, including an autoexec that executed
 The autoexec has some of the standard setttings like updaterate on offline server and other stuff. Plus it executes the config with some different binds like buy and jump-throw and a custom config that is quite interesting.
 
 The custom config is somewhat different that a regular config, becuase what this does, is to show some different stuff in the top left corner of the screen. It will always show damage given to other players when you die or when the round is won/lost.
-Besides showing Damage Given, it also shows some different settings.
+Besides showing Damage Given, it also shows some different settings. These are described in the [**Table below**](#key-binds-table)
 
 <h3>Binds_config Description</h3>
 The Binds config will make keybinds for mainly buying weapons and gear. But it will also make a couple of other nice binds.
 
 **When buying an item, it will switch to the primary or secondary weapon and drop it first. This is because if you want to buy a teammate the same gun as you already have, you don't have to drop it for him first, you can just buy another. It will not let you buy the same item as you already have, without dropping it first. If you don't have any, it will not drop any.**
 
-<h5>Key binds table</h5>
+<h4>Key binds table</h4>
 
 | Key						| Function															|
 | ------------------------- | ----------------------------------------------------------------- |
