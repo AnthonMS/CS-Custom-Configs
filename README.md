@@ -30,7 +30,7 @@ And the "End" key will change your crosshair. I have made 4 different crosshairs
 The Binds config will make keybinds for mainly buying weapons and gear. But it will also make a couple of other nice binds.
 
 <h4>Useful binds</h4>
-" **n** "					=	Drop the bomb immediately and say to the team you dropped it. <br />
+**n**					=	Drop the bomb immediately and say to the team you dropped it. <br />
 " ** c ** "					=	Jump Throw a grenade <br />
 ** Mouse wheel down **		= 	Jump <br />
 ** Mouse3(Wheel click) **	=	Quick switch to flash to throw them in faster intervals <br />
