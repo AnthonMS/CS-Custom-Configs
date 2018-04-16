@@ -1,9 +1,5 @@
 <h1> CSGO Config Files </h1>
 
-<h1> Testing </h1>
-
-**Bold text**
-
 This repository is to share my CSGO config files, (and to save them in the cloud if I need them on another PC at one point).
 
 It contains a lot of different config files, including an autoexec that executed every time the game is loaded, some different crosshairs and viewmodels.
@@ -29,9 +25,10 @@ And the "End" key will change your crosshair. I have made 4 different crosshairs
 <h3>Binds_config Description</h3>
 The Binds config will make keybinds for mainly buying weapons and gear. But it will also make a couple of other nice binds.
 
+<h4>Useful binds</h4>
+
 **n**
 
-<h4>Useful binds</h4>
 **n**					=	Drop the bomb immediately and say to the team you dropped it. <br />
 **c**					=	Jump Throw a grenade <br />
 ** Mouse wheel down **		= 	Jump <br />
