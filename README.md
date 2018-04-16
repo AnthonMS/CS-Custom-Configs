@@ -74,4 +74,4 @@ The Binds config will make keybinds for mainly buying weapons and gear. But it w
 
 <img src="/Images/Standard-Crosshair.png?raw=true" title="Standard Crosshair" height="30" width="30"> <img src="/Images/Reddot-Crosshair.png?raw=true" title="Red dot Crosshair" height="30" width="30"> <img src="/Images/Redplus-Crosshair.png?raw=true" title="Red Plus Crosshair" height="30" width="30"> <img src="/Images/Redcircle-Crosshair.png?raw=true" title="Red Circle Crosshair" height="30" width="30"> 
 
-**When you cycle between these crosshairs, it will say in teh top left corner which one you are using as well**
+**When you cycle between these crosshairs, it will say in the top left corner which one you are using as well**
