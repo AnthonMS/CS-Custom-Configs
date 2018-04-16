@@ -64,6 +64,12 @@ The Binds config will make keybinds for mainly buying weapons and gear. But it w
 | **F6** 					| Buy Smoke grenade 												|
 | **F7** 					| Buy Molotov or Incendiary 										|
 | **F8** 					| Buy HE grenade 													|
-
+| **Other Key binds** 		| 																	|
+| **F1** 					| Mute or Unmute Voices 											|
+| **F2** 					| Cycle between different mouse sensitivities						|
+| **F3** 					| Turn up for volume		 										|
+| **F4** 					| Turn down for volume 												|
+| **Delete** 				| Cycle between View models 										|
+| **End** 					| Cycle between Crosshairs 											|
 
 <h3>Screenshots</h3>
