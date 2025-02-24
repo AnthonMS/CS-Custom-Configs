@@ -6,7 +6,7 @@ To run it manually when changes are made, open console and run command `exec aut
 Default Keybinds and [Settings](#settings) are added to this so I can easily switch between accounts and run this config to get the same settings.
 
 
-My keybinds are made for Scandinavian 60% Keyboard layout. 
+My keybinds are made for Scandinavian 65% Keyboard layout. 
 
 | Key	(Scand. Keyboard)	| Function															|
 | ------------------------- | ----------------------------------------------------------------- |
@@ -18,6 +18,7 @@ My keybinds are made for Scandinavian 60% Keyboard layout.
 | **MWHEELDOWN**            | Jump                                                              |
 | **SHIFT**                 | Walk                                                              |
 | **CTRL**                  | Crouch                                                            |
+| **V**                     | Jump Throw                                                        |
 | **Weapon Keys**           | ----------------------------------------------------------------- |
 | **1**                     | Slot1                                                             |
 | **2**                     | Slot2                                                             |
@@ -87,6 +88,7 @@ When holding Mouse5 (Forward mouse button), it will switch to secondary keybinds
 | **3**                     | Slot3     /   Knife/Zeus                                          |
 | **4**                     | Slot4     /   Cycle Grenades                                      |
 | **G**                     | Drop                                                              |
+| **ENTER**                 | Buy M4A4 or Ak47                                                  |
 | ------------------------- | ----------------------------------------------------------------- |
 | **Secondary Binds** 		| 																	|
 | **1**                     | Slot6     /   HE Grenade                                          |
@@ -94,82 +96,82 @@ When holding Mouse5 (Forward mouse button), it will switch to secondary keybinds
 | **3**                     | Slot8     /   Smoke                                               |
 | **4**                     | Slot7     /   Flashbang                                           |
 | **G**                     | Drop C4                                                           |
+| **ENTER**                 | Buy M4A1-S or SG556                                               |
 
 
 
 ### Settings:
-// Default Settings:
-- volume 0.6
-- snd_menumusic_volume 0.04
-- snd_roundstart_volume 0
-- snd_roundaction_volume 0
-- snd_roundend_volume 0.16
-- snd_mvp_volume 0.2
-- snd_tensecondwarning_volume = 0.04
-- snd_deathcamera_volume 0.16
-- fps_max 400
-- fps_max_ui 200
-- cl_radar_scale 0.700000
-- cl_radar_always_centered 0
-- cl_use_opens_buy_menu 0
-- developer 1             			// Console now outputs in top left corner as well
-- con_enable 1
-- cl_color 2
-- cl_teamcounter_playercount_instead_of_avatars 1
+#### Default Settings:    
+volume 0.6  
+snd_menumusic_volume 0.04   
+snd_roundstart_volume 0 
+snd_roundaction_volume 0    
+snd_roundend_volume 0.16    
+snd_mvp_volume 0.2  
+snd_tensecondwarning_volume = 0.04  
+snd_deathcamera_volume 0.16 
+fps_max 400 
+fps_max_ui 200  
+cl_radar_scale 0.700000 
+cl_radar_always_centered 0  
+cl_use_opens_buy_menu 0 
+developer 1             			// Console now outputs in top left corner as well   
+con_enable 1    
+cl_color 2  
+cl_teamcounter_playercount_instead_of_avatars 1 
 
-- cl_interp_ratio 1
-- cl_interp 0.015625                  // Set to 0.03125 for less stable connection
-- cl_showfps 0                        // Set to 1 to enable it
-- r_fullscreen_gamma 2.200000
+cl_showfps 0    (Set to 1 to enable)  
+r_fullscreen_gamma 2.200000 
 
-// Crosshair
-- cl_crosshair_drawoutline 0
-- cl_crosshair_recoil 0
-- cl_crosshair_outlinethickness 1.035
-- cl_crosshair_friendly_warning 1
-- cl_crosshair_t false
-- cl_crosshairalpha 255
-- cl_crosshaircolor 5
-- cl_crosshaircolor_b 0
-- cl_crosshaircolor_g 0
-- cl_crosshaircolor_r 255
-- cl_crosshairdot 0
-- cl_crosshairgap -3.466554
-- cl_crosshairgap_useweaponvalue false
-- cl_crosshairsize 1.982854
-- cl_crosshairstyle 4
-- cl_crosshairthickness 0.585305
-- cl_crosshairusealpha 1
+#### Crosshair
+cl_crosshair_drawoutline 0  
+cl_crosshair_recoil 0   
+cl_crosshair_outlinethickness 1.035     
+cl_crosshair_friendly_warning 1     
+cl_crosshair_t false    
+cl_crosshairalpha 255   
+cl_crosshaircolor 5     
+cl_crosshaircolor_b 0   
+cl_crosshaircolor_g 0   
+cl_crosshaircolor_r 255     
+cl_crosshairdot 0   
+cl_crosshairgap -3.466554   
+cl_crosshairgap_useweaponvalue false    
+cl_crosshairsize 1.982854   
+cl_crosshairstyle 4     
+cl_crosshairthickness 0.585305  
+cl_crosshairusealpha 1  
 
 
 
 
 
-Notes:
+### Notes:
 
-slot0: ???
-slot1: primary weapon
-slot2: secondary weapon
-slot3: knife
-slot4: cycle grenades
-slot5: c4/bomb
-slot6: hegrenade
-slot7: flashbang
-slot8: smokegrenade
-slot9: decoy
-slot10: molotov/incgrenade
-slot11: zeus
-slot12: healthshot
-
-
-+turnleft:  Turn Left
-+turnright: Turn Right
+slot0: ???  
+slot1: primary weapon   
+slot2: secondary weapon     
+slot3: knife    
+slot4: cycle grenades   
+slot5: c4/bomb  
+slot6: hegrenade    
+slot7: flashbang    
+slot8: smokegrenade     
+slot9: decoy    
+slot10: molotov/incgrenade  
+slot11: zeus    
+slot12: healthshot  
 
 
++turnleft:  Turn Left   
++turnright: Turn Right  
 
 
 
-Special Keys:
+
+
+```
+## Special Keys:
 Key on keyboard  :   CS Keycode
 Ø                :   O_WITH_STROKE
 Æ                :   AE
@@ -183,3 +185,4 @@ RCTRL            :   RCTRL
 RALT             :   RALT
 -                :   /
 .                :   .
+```
