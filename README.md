@@ -1,9 +1,14 @@
 <h1> CS2 Config </h1>
 
+Place autoexec in `C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo\cfg`. Right click cs2 and browse local files and navigate to game/csgo/cfg.
 To autorun it when cs2 is started through steam, go to steam, right click CS2, click properties and add `+exec autoexec.cfg` to LAUNCH OPTIONS.
 To run it manually when changes are made, open console and run command `exec autoexec`
 
 Default Keybinds and [Settings](#settings) are added to this so I can easily switch between accounts and run this config to get the same settings.
+
+I am trying out a new movement config made by [Ruby Rain](https://steamcommunity.com/id/r_by) on [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=3313210014).
+It expired after about 6 hours of playtime. So remember to run the command `exec autoexec` once in a while, if playing long hours. It has to be executed while in the lobby. So if jump or any other movement stops working while playing, disconnect from game, execute autoexec and reconnect. It should fix the problems.
+Do not ask me how it works or why it's made this way, I have no idea. All I can say is, bhopping feels a lot smoother with this movement config.
 
 
 My keybinds are made for Scandinavian 65% Keyboard layout. 
